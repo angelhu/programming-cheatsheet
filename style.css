@@ -6,3 +6,11 @@ h1 {
 p {
   color: gray;
 }
+
+div {
+  border: dashed 1px red;
+}
+
+span {
+  border: solid 1px blue;
+}
