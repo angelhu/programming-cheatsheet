@@ -1,24 +1,14 @@
 body {
   background-color: #F5DEB3;
   color: #696969;
+  font-family: Helvetica, Verdana, sans-serif;
 }
 
 h1 {
-  font-family: Helvetica, Verdana, sans-serif;
   text-align: center;
 }
 
-h2 {
-  font-family: Helvetica, Verdana, sans-serif;
-}
-
-p {
-  font-family: Helvetica, Verdana, sans-serif;
-  font-size: 18px;
-}
-
-li {
-  font-family: Helvetica, Verdana, sans-serif;
+p, li {
   font-size: 18px;
 }
 
@@ -51,7 +41,6 @@ li {
 }
 
 #box-shadow {
-    font-family: Helvetica, Verdana, sans-serif;
     font-size: 18px;
     width: 300px;
     height: 100px;
