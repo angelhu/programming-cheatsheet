@@ -58,7 +58,7 @@ body {
 }
 
 h1 {
-  font-family: Helvetica, Verdana, sans-serif;
+  font-family: 'Monoton', cursive;
   text-align: center;
   font-weight: bold;
   font-size: 48px;
@@ -131,4 +131,16 @@ p, li {
     width: 300px;
     border-radius: 10px 20px 30px 40px;
     text-align: center;
+}
+
+#rochester {
+	font-family: 'Rochester', cursive;
+}
+
+#sacramento {
+	font-family: 'Sacramento', cursive;
+}
+
+#fredericka-the-great {
+	font-family: 'Fredericka the Great', cursive;
 }
